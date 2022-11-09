@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+/package
+.env
+newrelic_agent.log
+.eslintcache
+.idea/
